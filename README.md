@@ -11,4 +11,4 @@
 |正多面体プラグイン|v1.0.1|[正多面体プラグイン](https://github.com/leftcontroller0518/RegularPolyhedron)|図形プラグイン|
 
 ### 最終更新日
-<!-- UPDATED_AT --> 2026/09/03
+2026/09/03
