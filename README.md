@@ -7,10 +7,10 @@
 
 |プラグイン|最新バージョン|リンク|種類|
 |-|-|-|-|
-|エフェクトブラウザ|v1.1.0|<a href="https://github.com/leftcontroller0518/EffectBrowserToolPlugin" target="_blank" rel="noopener noreferrer">EffectBrowserToolPlugin</a>|ツールプラグイン|
-|Blobinもどき|v1.1.0|<a href="https://github.com/leftcontroller0518/Blobin_modoki" target="_blank" rel="noopener noreferrer">Blobin_modoki</a>|映像エフェクト|
-|ColorPicker+|v1.1.0|<a href="https://github.com/leftcontroller0518/colorpicker_plus" target="_blank" rel="noopener noreferrer">colorpicker_plus</a>|映像エフェクト|
-|正多面体プラグイン|v1.0.1|<a href="https://github.com/leftcontroller0518/RegularPolyhedron" target="_blank" rel="noopener noreferrer">RegularPolyhedron</a>|図形プラグイン|
+|エフェクトブラウザ|v1.1.0|[EffectBrowserToolPlugin](https://github.com)|ツールプラグイン|
+|Blobinもどき|v1.1.0|[Blobin_modoki](https://github.com)|映像エフェクト|
+|ColorPicker+|v1.1.0|[colorpicker_plus](https://github.com)|映像エフェクト|
+|正多面体プラグイン|v1.0.1|[RegularPolyhedron](https://github.com)|図形プラグイン|
 
 ## WebSites
 > [!Note]
@@ -18,7 +18,7 @@
 
 |名前|リンク|今後のアップデート予定|
 |-|-|-|
-|公式サイト|<a href="https://leftcontroller.com" target="_blank" rel="noopener noreferrer">official</a>|⭕️ブログ機能の修正やその他調整|
+|公式サイト|[official](https://leftcontroller.com)|⭕️ブログ機能の修正やその他調整|
 
 ### 最終更新日
-2026/09/03/10:34
+2026/09/03/10:35
