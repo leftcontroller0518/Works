@@ -18,7 +18,7 @@
 
 |名前|リンク|今後のアップデート予定|
 |-|-|-|
-|公式サイト|[official](https://leftcontroller.com)|⭕️|
+|公式サイト|[official](https://leftcontroller.com)|⭕️ブログ機能の修正やその他調整|
 
 ### 最終更新日
 2026/09/03
