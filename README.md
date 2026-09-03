@@ -12,5 +12,13 @@
 |ColorPicker+|v1.1.0|[colorpicker_plus](https://github.com/leftcontroller0518/colorpicker_plus)|映像エフェクト|
 |正多面体プラグイン|v1.0.1|[RegularPolyhedron](https://github.com/leftcontroller0518/RegularPolyhedron)|図形プラグイン|
 
+## WebSites
+> [!Note]
+> 全てのウェブサイトが記載されていない場合があります
+
+|名前|リンク|今後のアップデート予定|
+|-|-|-|
+|公式サイト|[official](https://leftcontroller.com)|⭕️|
+
 ### 最終更新日
 2026/09/03
