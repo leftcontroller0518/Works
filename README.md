@@ -5,7 +5,7 @@
 > [!Note]
 > 全てのプラグインが記載されていない場合があります。
 
-|プラグイン|最新バージョン|リンク|種類|
+|プラグイン|最新ver.|リンク|種類|
 |-|-|-|-|
 |エフェクトブラウザ|v1.1.0|[EffectBrowserToolPlugin](https://github.com/leftcontroller0518/EffectBrowserToolPlugin)|ツールプラグイン|
 |Blobinもどき|v1.1.0|[Blobin_modoki](https://github.com/leftcontroller0518/Blobin_modoki)|映像エフェクト|
