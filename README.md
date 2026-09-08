@@ -17,6 +17,7 @@
 |サイト|リンク|今後のアップデート予定|
 |-|-|-|
 |公式サイト|[OfficialWeb](https://leftcontroller.com)|⭕️ブログ機能の修正やその他調整|
+|YMUtl|[YMUtl](https://ymutl.leftcontroller.com)|⭕️機能の複数実装、バグ修正、メンテナンスetc...|
 
 ## Forks
 |元リポジトリ|リンク|変更内容|
