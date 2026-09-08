@@ -25,7 +25,7 @@
 ||||
 
 
-### 一般公開していないプラグイン
+### Not open to the public
 - kuwaharaフィルター（ほぼ没）
 - 彩度マップ
 - 
