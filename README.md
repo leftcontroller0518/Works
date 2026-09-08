@@ -1,9 +1,9 @@
 # Works
 [![技術者倫理 遵守済み](https://img.shields.io/badge/%E6%8A%80%E8%A1%93%E8%80%85%E5%80%AB%E7%90%86-%E9%81%B5%E5%AE%88%E6%B8%88%E3%81%BF-0a0a0a?style=for-the-badge&labelColor=ffffff)](https://技術者倫理.com)
+> [!Note]
+> 全てのプロジェクトが記載されていない可能性があります。ご了承ください。
 
 ## Plugins
-> [!Note]
-> 全てのプラグインが記載されていない場合があります。
 
 |プラグイン|最新ver.|リンク|種類|
 |-|-|-|-|
@@ -13,8 +13,6 @@
 |正多面体プラグイン|v1.0.1|[RegularPolyhedron](https://github.com/leftcontroller0518/RegularPolyhedron)|図形プラグイン|
 
 ## WebSites
-> [!Note]
-> 全てのウェブサイトが記載されていない場合があります。
 
 |サイト|リンク|今後のアップデート予定|
 |-|-|-|
