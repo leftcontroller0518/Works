@@ -16,6 +16,7 @@
 - kuwaharaフィルター（ほぼ没）
 - 彩度マップ
 - 
+上記プラグインが欲しい場合は[X(旧Twitter)](https://x.com/aoihou0518)のDMにてどうぞ。
 
 ## WebSites
 
@@ -29,7 +30,6 @@
 |-|-|-|
 ||||
 
-上記プラグインが欲しい場合は[X(旧Twitter)](https://x.com/aoihou0518)のDMにてどうぞ。
 
 ### Last Updated
-2026/09/08(Tue) 15:59
+2026/09/10(Thu) 10:45
