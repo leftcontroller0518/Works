@@ -11,6 +11,8 @@
 |Blobinもどき|v1.1.0|[Blobin_modoki](https://github.com/leftcontroller0518/Blobin_modoki)|映像エフェクト|
 |ColorPicker+|v1.1.0|[colorpicker_plus](https://github.com/leftcontroller0518/colorpicker_plus)|映像エフェクト|
 |正多面体プラグイン|v1.0.1|[RegularPolyhedron](https://github.com/leftcontroller0518/RegularPolyhedron)|図形プラグイン|
+|画像ウィンドウ|v1.0.0|[ImageWindowFreeBoard](https://leftcomtroller.booth.pm/items/8479645)|ツールプラグイン|
+|パーツ別SVG読み込み|v1.0.0|[SvgPeaser](https://booth.pm/ja/items/8433595)|ツールプラグイン|
 
 ### Not open to the public
 - kuwaharaフィルター 
