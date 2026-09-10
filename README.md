@@ -13,9 +13,9 @@
 |正多面体プラグイン|v1.0.1|[RegularPolyhedron](https://github.com/leftcontroller0518/RegularPolyhedron)|図形プラグイン|
 
 ### Not open to the public
-- kuwaharaフィルター（ほぼ没）
+- kuwaharaフィルター 
 - 彩度マップ
-- 
+- スリットスキャン（バグが多すぎた）
 上記プラグインが欲しい場合は[X(旧Twitter)](https://x.com/aoihou0518)のDMにてどうぞ。
 
 ## WebSites
