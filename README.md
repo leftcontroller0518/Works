@@ -31,7 +31,7 @@
 
 |サイト|リンク|今後のアップデート予定|関連リポジトリ|
 |-|-|-|-|
-|公式サイト|[OfficialWeb](https://leftcontroller.com)|⭕️ブログ機能の修正やその他調整||
+|公式|[OfficialWeb](https://leftcontroller.com)|⭕️ブログ機能の修正やその他調整||
 |YMUtl|[YMUtl](https://ymutl.leftcontroller.com)|⭕️機能の複数実装、バグ修正、メンテナンスetc...|[YMUtl](https://github.com/leftcontroller0518/YMUtl), [Open wiki project](https://github.com/leftcontroller0518/YMUtl-open-wiki-proj)|
 
 ## Forks
