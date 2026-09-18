@@ -36,7 +36,7 @@
 |サイト|リンク|今後のアップデート予定|関連リポジトリ|
 |-|-|-|-|
 |公式|[OfficialWeb](https://leftcontroller.com)|⭕️ブログ機能の修正やその他調整||
-|YMUtl|[YMUtl](https://ymutl.leftcontroller.com)|⭕️機能の複数実装、バグ修正、メンテナンスetc...|[YMUtl](https://github.com/leftcontroller0518/YMUtl), [Open wiki project](https://github.com/leftcontroller0518/YMUtl-open-wiki-proj)|
+|YMUtl|[YMUtl](https://ymutl.leftcontroller.com)|⭕️機能の複数実装、バグ修正etc...|[YMUtl](https://github.com/leftcontroller0518/YMUtl), [Open wiki project](https://github.com/leftcontroller0518/YMUtl-open-wiki-proj)|
 
 ### Last Updated
 最終更新日時: <!-- last_update -->2026-09-18 10:29<!-- /last_update -->
