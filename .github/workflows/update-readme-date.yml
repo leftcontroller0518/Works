@@ -1,0 +1,31 @@
+name: Update README Last Updated Date
+
+on:
+  push:
+    branches:
+      - main # または master
+
+jobs:
+  update-date:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # コミットとプッシュの権限を付与
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update date in README.md
+        run: |
+          # 現在の日時を取得 (例: 2026-09-18 10:26)
+          CURRENT_DATE=$(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M')
+          
+          # README.md のプレースホルダー部分を置換
+          sed -i "s/<!-- last_update -->.*<!-- \/last_update -->/<!-- last_update -->$CURRENT_DATE<!-- \/last_update -->/" README.md
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # 変更がある場合のみコミット＆プッシュ
+          git diff --quiet || (git commit -am "chore: update README last updated date" && git push)
