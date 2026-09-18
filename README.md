@@ -17,9 +17,9 @@
 |パーツ別SVG読み込み|v1.0.0|[SvgPeaser](https://booth.pm/ja/items/8433595)|ツールプラグイン|
 
 ## Fork
-|プラグイン|元制作者様|リンク|変更内容|
+|プラグイン|元制作者様|リンク|PR|
 |-|-|-|-|
-|イージングしながら登場退場|[いるかぁぁ様](https://github.com/Dolphin-kun)|[LyricMotion](https://github.com/leftcontroller0518/LyricMotion)|カスタムイージング機能の追加とプレビュー安定性の向上|
+|リリックモーションしながら登場退場|[いるかぁぁ様](https://github.com/Dolphin-kun)|[LyricMotion](https://github.com/leftcontroller0518/LyricMotion)|[カスタムイージング機能の追加とプレビュー安定性の向上](https://github.com/Dolphin-kun/LyricMotion/pull/2)|
 
 ### Not open to the public
 |プラグイン|没理由|依頼者|
