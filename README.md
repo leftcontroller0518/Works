@@ -1,20 +1,19 @@
 # Works
 [![技術者倫理 遵守済み](https://img.shields.io/badge/%E6%8A%80%E8%A1%93%E8%80%85%E5%80%AB%E7%90%86-%E9%81%B5%E5%AE%88%E6%B8%88%E3%81%BF-0a0a0a?style=for-the-badge&labelColor=ffffff)](https://技術者倫理.com)
 > [!Note]
-> 全てのプロジェクトが記載されていない可能性があります。ご了承ください。
+> 全てのプロジェクトが記載されていない可能性があります。ご了承ください。（特にBooth限定公開など）
 
 ## Plugins
 
 |プラグイン|最新ver.|リンク|種類|
 |-|-|-|-|
-|システムフォント変更|v1.0.0|[YMM4_FontChanger](https://github.com/leftcontroller0518/YMM4_FontChanger)|ユーティリティプラグイン|
-|エラスティックベジェ|v1.0.0|[ElasticBezierEasing](https://github.com/leftcontroller0518/ElasticBezierEasing)|イージングプラグイン|
-|エフェクトブラウザ|v1.1.0|[EffectBrowserToolPlugin](https://github.com/leftcontroller0518/EffectBrowserToolPlugin)|ツールプラグイン|
-|Blobinもどき|v1.1.0|[Blobin_modoki](https://github.com/leftcontroller0518/Blobin_modoki)|映像エフェクト|
-|ColorPicker+|v1.1.0|[colorpicker_plus](https://github.com/leftcontroller0518/colorpicker_plus)|映像エフェクト|
-|正多面体プラグイン|v1.0.1|[RegularPolyhedron](https://github.com/leftcontroller0518/RegularPolyhedron)|図形プラグイン|
-|画像ウィンドウ|v1.0.0|[ImageWindowFreeBoard](https://leftcomtroller.booth.pm/items/8479645)|ツールプラグイン|
-|パーツ別SVG読み込み|v1.0.0|[SvgPeaser](https://booth.pm/ja/items/8433595)|ツールプラグイン|
+|システムフォント変更|[v1.0.0](https://github.com/leftcontroller0518/YMM4_FontChanger/releases/latest)|[YMM4_FontChanger](https://github.com/leftcontroller0518/YMM4_FontChanger/releases/latest)|ユーティリティプラグイン|
+|エラスティックベジェ|[v1.0.0](https://github.com/leftcontroller0518/ElasticBezierEasing/releases/latest)|[ElasticBezierEasing](https://github.com/leftcontroller0518/ElasticBezierEasing/releases/latest)|イージングプラグイン|
+|エフェクトブラウザ|[v1.1.0](https://github.com/leftcontroller0518/EffectBrowserToolPlugin/releases/latest)|[EffectBrowserToolPlugin](https://github.com/leftcontroller0518/EffectBrowserToolPlugin/releases/latest)|ツールプラグイン|
+|Blobinもどき|[v1.1.0](https://github.com/leftcontroller0518/Blobin_modoki/releases/latest)|[Blobin_modoki](https://github.com/leftcontroller0518/Blobin_modoki/releases/latest)|映像エフェクト|
+|ColorPicker+|[v1.1.0](https://github.com/leftcontroller0518/colorpicker_plus/releases/latest)|[colorpicker_plus](https://github.com/leftcontroller0518/colorpicker_plus/releases/latest)|映像エフェクト|
+|正多面体プラグイン|[v1.0.1](https://github.com/leftcontroller0518/RegularPolyhedron/releases/latest)|[RegularPolyhedron](https://github.com/leftcontroller0518/RegularPolyhedron/releases/latest)|図形プラグイン|
+|画像ウィンドウ|[v1.0.0](https://leftcomtroller.booth.pm/items/8479645)|[ImageWindowFreeBoard](https://leftcomtroller.booth.pm/items/8479645)|ツールプラグイン|
 
 ## Fork
 |プラグイン|元制作者様|リンク|PR|
@@ -40,4 +39,4 @@
 |YMUtl|[YMUtl](https://ymutl.leftcontroller.com)|⭕️機能の複数実装、バグ修正、メンテナンスetc...|[YMUtl](https://github.com/leftcontroller0518/YMUtl), [Open wiki project](https://github.com/leftcontroller0518/YMUtl-open-wiki-proj)|
 
 ### Last Updated
-2026/09/18(Fri.) 10:12
+2026/09/18(Fri.) 10:18
