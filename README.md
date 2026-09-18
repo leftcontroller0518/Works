@@ -16,9 +16,13 @@
 |画像ウィンドウ|v1.0.0|[ImageWindowFreeBoard](https://leftcomtroller.booth.pm/items/8479645)|ツールプラグイン|
 |パーツ別SVG読み込み|v1.0.0|[SvgPeaser](https://booth.pm/ja/items/8433595)|ツールプラグイン|
 
+## Fork
+|プラグイン|元制作者様|リンク|変更内容|
+|-|-|-|-|
+|イージングしながら登場退場|[いるかぁぁ様](https://github.com/Dolphin-kun)|[LyricMotion](https://github.com/leftcontroller0518/LyricMotion)|カスタムイージング機能の追加とプレビュー安定性の向上|
 
 ### Not open to the public
-|タイトル|没理由|依頼者|
+|プラグイン|没理由|依頼者|
 |-|-|-|
 |kuwaharaフィルター|YMM4に標準搭載されていたため|LRMN|
 |彩度マップ|gitをpushするのがめんどくさいため。|haruno|
