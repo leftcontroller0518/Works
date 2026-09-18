@@ -13,7 +13,7 @@
 |Blobinもどき|[v1.1.0](https://github.com/leftcontroller0518/Blobin_modoki/releases/latest)|[Blobin_modoki](https://github.com/leftcontroller0518/Blobin_modoki/releases/latest)|映像エフェクト|
 |ColorPicker+|[v1.1.0](https://github.com/leftcontroller0518/colorpicker_plus/releases/latest)|[colorpicker_plus](https://github.com/leftcontroller0518/colorpicker_plus/releases/latest)|映像エフェクト|
 |正多面体プラグイン|[v1.0.1](https://github.com/leftcontroller0518/RegularPolyhedron/releases/latest)|[RegularPolyhedron](https://github.com/leftcontroller0518/RegularPolyhedron/releases/latest)|図形|
-|画像ウィンドウ|[v1.0.0](https://leftcomtroller.booth.pm/items/8479645)|[ImageWindowFreeBoard](https://leftcomtroller.booth.pm/items/8479645)|ツールプラグイン|
+|画像ウィンドウ|[v1.0.0](https://leftcomtroller.booth.pm/items/8479645)|[ImageWindowFreeBoard](https://leftcomtroller.booth.pm/items/8479645)|ツール|
 
 ## Fork
 |プラグイン|元制作者様|リンク|PR|
