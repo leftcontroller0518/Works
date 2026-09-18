@@ -7,6 +7,7 @@
 
 |プラグイン|最新ver.|リンク|種類|
 |-|-|-|-|
+|システムフォント変更プラグイン|v1.0.0|[YMM4_FontChanger](https://github.com/leftcontroller0518/YMM4_FontChanger)|ユーティリティプラグイン|
 |エラスティックベジェイージング|v1.0.0|[ElasticBezierEasing](https://github.com/leftcontroller0518/ElasticBezierEasing)|イージングプラグイン|
 |エフェクトブラウザ|v1.1.0|[EffectBrowserToolPlugin](https://github.com/leftcontroller0518/EffectBrowserToolPlugin)|ツールプラグイン|
 |Blobinもどき|v1.1.0|[Blobin_modoki](https://github.com/leftcontroller0518/Blobin_modoki)|映像エフェクト|
@@ -35,4 +36,4 @@
 |YMUtl|[YMUtl](https://ymutl.leftcontroller.com)|⭕️機能の複数実装、バグ修正、メンテナンスetc...|[YMUtl](https://github.com/leftcontroller0518/YMUtl), [Open wiki project](https://github.com/leftcontroller0518/YMUtl-open-wiki-proj)|
 
 ### Last Updated
-2026/09/16(Wed.) 12:12
+2026/09/18(Fri.) 10:07
