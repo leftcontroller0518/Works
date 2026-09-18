@@ -8,7 +8,7 @@
 |プラグイン|最新ver.|リンク|種類|
 |-|-|-|-|
 |システムフォント変更プラグイン|[v1.0.0](https://github.com/leftcontroller0518/YMM4_FontChanger/releases/latest)|[YMM4_FontChanger](https://github.com/leftcontroller0518/YMM4_FontChanger/releases/latest)|ユーティリティ|
-|エラスティックベジェ|[v1.0.0](https://github.com/leftcontroller0518/ElasticBezierEasing/releases/latest)|[ElasticBezierEasing](https://github.com/leftcontroller0518/ElasticBezierEasing/releases/latest)|イージング|
+|エラスティックベジェイージング|[v1.0.0](https://github.com/leftcontroller0518/ElasticBezierEasing/releases/latest)|[ElasticBezierEasing](https://github.com/leftcontroller0518/ElasticBezierEasing/releases/latest)|イージング|
 |エフェクトブラウザ|[v1.1.0](https://github.com/leftcontroller0518/EffectBrowserToolPlugin/releases/latest)|[EffectBrowserToolPlugin](https://github.com/leftcontroller0518/EffectBrowserToolPlugin/releases/latest)|ツール|
 |Blobinもどき|[v1.1.0](https://github.com/leftcontroller0518/Blobin_modoki/releases/latest)|[Blobin_modoki](https://github.com/leftcontroller0518/Blobin_modoki/releases/latest)|映像エフェクト|
 |ColorPicker+|[v1.1.0](https://github.com/leftcontroller0518/colorpicker_plus/releases/latest)|[colorpicker_plus](https://github.com/leftcontroller0518/colorpicker_plus/releases/latest)|映像エフェクト|
@@ -39,4 +39,4 @@
 |YMUtl|[YMUtl](https://ymutl.leftcontroller.com)|⭕️機能の複数実装、バグ修正、メンテナンスetc...|[YMUtl](https://github.com/leftcontroller0518/YMUtl), [Open wiki project](https://github.com/leftcontroller0518/YMUtl-open-wiki-proj)|
 
 ### Last Updated
-最終更新日時: <!-- last_update -->2026-09-18 10:27<!-- /last_update -->
+最終更新日時: <!-- last_update -->AUTO<!-- /last_update -->
