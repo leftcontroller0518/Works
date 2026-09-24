@@ -7,6 +7,8 @@
 
 |プラグイン|最新ver.|リンク|種類|
 |-|-|-|-|
+|チャンネルリマップ|[v1.0.0](https://github.com/leftcontroller0518/ChannelRemap/releases/latest)|[ChannnelReamp](https://github.com/leftcontroller0518/ChannelRemap)|映像エフェクト|
+|タービュレントディスプレイス|[v1.0.0](https://github.com/leftcontroller0518/TurbulentDisplace/releases/latest)|[TurbulentDisplace](https://github.com/leftcontroller0518/TurbulentDisplace)|映像エフェクト|
 |システムフォント変更プラグイン|[v1.0.0](https://github.com/leftcontroller0518/YMM4_FontChanger/releases/latest)|[YMM4_FontChanger](https://github.com/leftcontroller0518/YMM4_FontChanger/releases/latest)|ユーティリティ|
 |エラスティックベジェイージング|[v1.0.0](https://github.com/leftcontroller0518/ElasticBezierEasing/releases/latest)|[ElasticBezierEasing](https://github.com/leftcontroller0518/ElasticBezierEasing/releases/latest)|イージング|
 |エフェクトブラウザ|[v1.1.0](https://github.com/leftcontroller0518/EffectBrowserToolPlugin/releases/latest)|[EffectBrowserToolPlugin](https://github.com/leftcontroller0518/EffectBrowserToolPlugin/releases/latest)|ツール|
