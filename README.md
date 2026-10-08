@@ -40,5 +40,11 @@
 |公式|[OfficialWeb](https://leftcontroller.com)|⭕️ブログ機能の修正やその他調整||
 |YMUtl|[YMUtl](https://ymutl.leftcontroller.com)|⭕️機能の複数実装、バグ修正etc...|[YMUtl](https://github.com/leftcontroller0518/YMUtl), [Open wiki project](https://github.com/leftcontroller0518/YMUtl-open-wiki-proj)|
 
+## MinecraftMods
+|Mod|リンク|
+|-|-|
+|PlayerViewer|[PlayerViewer](https://github.com/leftcontroller0518/PlayerViewer)|
+
+
 ### Last Updated
 <!-- last_update -->2026-09-29 15:33<!-- /last_update -->
