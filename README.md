@@ -48,5 +48,10 @@
 
 ### Plugins
 
+### Others
+#### Gist
+[https://gist.github.com/leftcontroller0518/c6dc82b14bd3f0abf493d1e19d045b35](独自の軽量化MODのコード構想)
+
+
 ### Last Updated
 <!-- last_update -->2026-10-09 08:06<!-- /last_update -->
