@@ -49,8 +49,8 @@
 ### Plugins
 
 ### Other
-[独自の軽量化MODのコード構想](https://gist.github.com/leftcontroller0518/c6dc82b14bd3f0abf493d1e19d045b35)
-[音質上昇PythonCLIツール](https://github.com/leftcontroller0518/AudioEnhancer)
+- [独自の軽量化MODのコード構想](https://gist.github.com/leftcontroller0518/c6dc82b14bd3f0abf493d1e19d045b35)
+- [音質上昇PythonCLIツール](https://github.com/leftcontroller0518/AudioEnhancer)
 
 ### Last Updated
-<!-- last_update -->2026-10-17 11:26<!-- /last_update -->
+<!-- last_update -->2026-10-16 09:49<!-- /last_update -->
