@@ -54,4 +54,4 @@
 - [音質上昇PythonCLIツール](https://github.com/leftcontroller0518/AudioEnhancer)
 
 ### Last Updated
-<!-- last_update -->2026-11-21 09:49<!-- /last_update -->
+<!-- last_update -->2026-11-21 09:50<!-- /last_update -->
