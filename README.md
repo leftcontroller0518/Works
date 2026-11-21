@@ -7,6 +7,7 @@
 
 |プラグイン|ver|リンク|種類|依頼者|
 |-|-|-|-|-|
+|Searchable|[v1.0.0](https://github.com/leftcontroller0518/Searchable/releases/latest)|[Searchable](https:/github/leftcontroller0518/searchable)|ユーティリティ||
 |チャンネルリマップ|[v1.0.0](https://github.com/leftcontroller0518/ChannelRemap/releases/latest)|[ChannnelReamp](https://github.com/leftcontroller0518/ChannelRemap)|映像エフェクト|おやすみ|
 |タービュレントディスプレイス|[v1.0.0](https://github.com/leftcontroller0518/TurbulentDisplace/releases/latest)|[TurbulentDisplace](https://github.com/leftcontroller0518/TurbulentDisplace)|映像エフェクト|haruno|
 |システムフォント変更|[v1.0.0](https://github.com/leftcontroller0518/YMM4_FontChanger/releases/latest)|[YMM4_FontChanger](https://github.com/leftcontroller0518/YMM4_FontChanger/releases/latest)|ユーティリティ||
