@@ -14,7 +14,7 @@
 |タービュレントディスプレイス|[v1.0.0](https://github.com/leftcontroller0518/TurbulentDisplace/releases/latest)|[TurbulentDisplace](https://github.com/leftcontroller0518/TurbulentDisplace)|映像エフェクト|haruno|
 |システムフォント変更|[v1.0.0](https://github.com/leftcontroller0518/YMM4_FontChanger/releases/latest)|[YMM4_FontChanger](https://github.com/leftcontroller0518/YMM4_FontChanger/releases/latest)|ユーティリティ||
 |エラスティックベジェ|[v1.0.0](https://github.com/leftcontroller0518/ElasticBezierEasing/releases/latest)|[ElasticBezierEasing](https://github.com/leftcontroller0518/ElasticBezierEasing/releases/latest)|イージング||
-|エフェクトブラウザ|[v2.0.0](https://github.com/leftcontroller0518/EffectBrowserToolPlugin/releases/latest)|[EffectBrowserToolPlugin](https://github.com/leftcontroller0518/EffectBrowserToolPlugin/releases/latest)|ツール|まっちゃMC（一部機能）|
+|エフェクトブラウザ|[v2.0.0](https://github.com/leftcontroller0518/EffectBrowserToolPlugin/releases/latest)|[EffectBrowserToolPlugin](https://github.com/leftcontroller0518/EffectBrowserToolPlugin/releases/latest)|ツール|まっちゃMC（一部）|
 |Blobinもどき|[v1.1.0](https://github.com/leftcontroller0518/Blobin_modoki/releases/latest)|[Blobin_modoki](https://github.com/leftcontroller0518/Blobin_modoki/releases/latest)|映像エフェクト||
 |ColorPicker+|[v1.1.0](https://github.com/leftcontroller0518/colorpicker_plus/releases/latest)|[colorpicker_plus](https://github.com/leftcontroller0518/colorpicker_plus/releases/latest)|ユーティリティ|きうい|
 |正多面体プラグイン|[v1.0.1](https://github.com/leftcontroller0518/RegularPolyhedron/releases/latest)|[RegularPolyhedron](https://github.com/leftcontroller0518/RegularPolyhedron/releases/latest)|図形||
@@ -57,4 +57,4 @@
 - [Botamochi](https://github.com/leftcontroller0518/Botamochi)
 
 ### Last Updated
-<!-- last_update -->2026-11-24 14:24<!-- /last_update -->
+<!-- last_update -->2026-11-24 14:23<!-- /last_update -->
