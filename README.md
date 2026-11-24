@@ -8,7 +8,7 @@
 |プラグイン|ver|リンク|種類|依頼者|
 |-|-|-|-|-|
 |ReName|[v1.0.0](https://github.com/leftcontroller0518/ReName/releases/latest)|[ReName](https://github.com/leftcontroller0518/ReName)|ユーティリティ||
-|エコー|[v1.0.0](https://github.com/leftcontroller0518/Echo/releases/latest)|[Echo](https://github.com/leftcontroller0518/Echo)|映像エフェクト||
+|エコー|[v1.0.0](https://github.com/leftcontroller0518/Echo/releases/latest)|[Echo](https://github.com/leftcontroller0518/Echo)|映像エフェクト|つぎょ|
 |Searchable|[v1.0.0](https://github.com/leftcontroller0518/Searchable/releases/latest)|[Searchable](https://github.com/leftcontroller0518/Searchable)|ユーティリティ||
 |チャンネルリマップ|[v1.0.0](https://github.com/leftcontroller0518/ChannelRemap/releases/latest)|[ChannnelReamp](https://github.com/leftcontroller0518/ChannelRemap)|映像エフェクト|おやすみ|
 |タービュレントディスプレイス|[v1.0.0](https://github.com/leftcontroller0518/TurbulentDisplace/releases/latest)|[TurbulentDisplace](https://github.com/leftcontroller0518/TurbulentDisplace)|映像エフェクト|haruno|
